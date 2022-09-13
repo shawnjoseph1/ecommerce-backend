@@ -11,4 +11,4 @@ Open the project folder and run `npm install` after that create the database usi
 
 ## Video Guide
 
-[![Watch the video](screenshot.jpg)](https://drive.google.com/file/d/110JSNk1L37JuKzVViqH8hMig2Ai-ZwrD/view?usp=sharing)
+[![](./images/screenshot.jpg)](https://drive.google.com/file/d/110JSNk1L37JuKzVViqH8hMig2Ai-ZwrD/view?usp=sharing)
